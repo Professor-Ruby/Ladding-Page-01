@@ -1,0 +1,90 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap');
+
+
+body{
+    background: url(../img/Madeira\ escura-01.jpeg);
+  
+}
+label{
+    color: white;
+}
+form{
+   display: flex;
+    flex-direction: column;
+     width: 500px;
+    margin: 50px auto;
+    background-color: rgba(97, 97, 97, 0.085);
+   padding: 20px;
+   border: 2px solid rgba(255, 253, 253, 0.192);
+   box-shadow: 3px 2px 0px rgba(0, 0, 0, 0.282);
+   border-radius: 10px;
+}
+input{
+    margin: 10px 0;
+    width: 300px;
+    padding: 5px;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+
+div{
+    width: 80%;
+    margin: auto;
+}
+h2{
+    text-align: center;
+    margin: 10px auto;
+    color: white;
+}
+button{
+width: 300px;
+padding: 10px;
+margin: 30px auto;
+border-radius: 20px;
+}
+
+.h1-01{
+    color: white;
+    margin: 30px auto;
+    padding: 10px;
+    text-align: center;
+    font-family: "Doto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:
+      "ROND" 0;
+    }
+  
+      .h1-02{
+        color: white;
+        margin: 30px auto;
+        padding: 10px;
+        text-align: center;
+      }
+
+.div-h1{
+    background: url(../img/fundo\ de\ madeira-02.jpeg);
+    border: 1px solid rgba(127, 115, 115, 0.36);
+    margin: 20px auto;
+    border-radius: 10px;
+    
+}
+
+.enviar{
+    color: black;
+font-size: 1.250rem;
+
+}
