@@ -41,7 +41,7 @@ h1 {}
 .box{
     height: 400px;
     width: 300px;
-    background: red;
+    background: rgb(88, 136, 218);
     border: 2px solid black;
     margin: auto;
    
@@ -55,4 +55,32 @@ h1 {}
     margin-top: 100px;
     padding: 20px;
     gap: 10px;
+}
+
+h1, h2, p{
+    text-align: center;
+
+}
+
+p{
+    background-color: rgba(130, 127, 127, 0.623);
+    margin: 30px auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 1.1rem;
+    padding: 5px;
+}
+
+h1{
+    background-color: rgba(0, 0, 0, 0.752);
+    color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    
+}
+
+h2{
+    background-color: green;
+    margin: 30px auto;
+
 }
